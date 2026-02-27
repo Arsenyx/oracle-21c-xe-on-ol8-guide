@@ -4,7 +4,7 @@ A complete step-by-step guide to set up a local Oracle Database 21c Express Edit
 
 ## 🧪 Tested on real hardware
 
-This guide is not just theory — every step was verified on:
+This guide is not just theory — every step was verified on real machines:
 
 | Machine | Configuration | Status |
 |---------|--------------|--------|
@@ -16,11 +16,28 @@ This guide is not just theory — every step was verified on:
 
 [📊 Full neofetch logs](test-env/neofetch-logs.md)
 
+## 📖 Available guides / Доступные гайды / Guías disponibles
+
+- [🇬🇧 English version](guide-en.md) — for international readers
+- [🇷🇺 Русская версия](guide-ru.md) — для русскоязычных читателей
+- [🇪🇸 Versión en español](guide-es.md) — para hispanohablantes
+
 ## 📚 What's inside
 
 - [Full guide in Russian](guide-ru.md) — detailed instructions with comments
 - [Example config files](configs/) — ready-to-use .bash_profile, listener.ora
 - [Troubleshooting](troubleshooting/) — common errors and fixes (ORA-12541, etc.)
+
+## 🎯 Why this guide?
+
+- ✅ **Local setup** — no cloud, no remote servers, everything runs on your machine
+- ✅ **Exam-focused** — includes all required privileges for 1Z0-071 practice
+- ✅ **Family-proof** — Oracle Linux works as daily driver
+- ✅ **Battle-tested** — verified on 5 different machines
+
+## 🐛 Found an issue?
+
+Feel free to [open an issue](../../issues) or submit a pull request. Let's make this guide better together!
 
 ## 🚀 Quick start
 
