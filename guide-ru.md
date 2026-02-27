@@ -236,6 +236,8 @@ ID | NAME    | CREATED_AT
 3  | Antonio | 27-FEB-26
 ```
 
+![Testing ORACLE SQL Developer](images/Oracle%20SQL%20Developer.png)
+
 ---
 
 ## 🐛 Возможные ошибки и их решение
