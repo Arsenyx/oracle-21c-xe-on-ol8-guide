@@ -195,8 +195,10 @@ $ sudo dnf install sqldeveloper-24.3.1-*.rpm -y
 
 ### 17. Запускаем (проверка)
 ```bash
-$ sqldeveloper
+$ sqldeveloper&
 ```
+![Start ORACLE SQL Developer](images/Download%20SQL%20DEveloper.png)
+
 ## 🔌 Настройка подключения в SQL Developer
 1. Нажмите зеленый **"+"** (New Connection)
 2. Заполните поля:
