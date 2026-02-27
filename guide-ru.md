@@ -200,6 +200,9 @@ $ sqldeveloper&
 ![Start ORACLE SQL Developer](images/Download%20SQL%20DEveloper.png)
 
 ## 🔌 Настройка подключения в SQL Developer
+
+![Usage SQL Developer](images/Usage%20Oracle%20%20Tracking.png)
+
 1. Нажмите зеленый **"+"** (New Connection)
 2. Заполните поля:
 
@@ -213,6 +216,8 @@ $ sqldeveloper&
 | **Hostname** | localhost (или IP вашей машины) |
 | **Port** | 1521 |
 | **Service Name** | XEPDB1 |
+
+
 
 4. Нажмите **Test** — должно показать "Success"
 5. Нажмите **Save**, затем **Connect**
