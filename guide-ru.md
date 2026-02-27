@@ -217,7 +217,7 @@ $ sqldeveloper&
 | **Port** | 1521 |
 | **Service Name** | XEPDB1 |
 
-
+![New Connect](images/New%20Connection.png)
 
 4. Нажмите **Test** — должно показать "Success"
 5. Нажмите **Save**, затем **Connect**
