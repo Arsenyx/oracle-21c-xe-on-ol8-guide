@@ -1,6 +1,4 @@
 
-
-
 # Setting Up Oracle SQL Learning Environment for 1Z0-071 Exam Preparation
 
 Complete guide to install Oracle Database 21c XE, SQL Developer and configure a learning environment on Oracle Linux 8
@@ -214,6 +212,7 @@ $ sudo dnf install sqldeveloper-24.3.1-*.rpm -y
 ```bash
 $ sqldeveloper&
 ```
+![Start ORACLE SQL Developer](images/Download%20SQL%20DEveloper.png)
 
 ## 🔌 Configuring Connection in SQL Developer
 
