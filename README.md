@@ -2,6 +2,10 @@
 
 A complete step-by-step guide to set up a local Oracle Database 21c Express Edition (XE) with SQL Developer on Oracle Linux 8. Perfect for **1Z0-071 exam preparation** and daily SQL practice.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Oracle Linux](https://img.shields.io/badge/OS-Oracle%20Linux%208-red)](https://oracle.com/linux)
+[![Oracle DB](https://img.shields.io/badge/Oracle-21c%20XE-blue)](https://oracle.com/database)
+
 ## 🧪 Tested on real hardware
 
 This guide is not just theory — every step was verified on real machines:
@@ -16,15 +20,12 @@ This guide is not just theory — every step was verified on real machines:
 
 [📊 Full neofetch logs](test-env/neofetch-logs.md)
 
-## 📖 Available guides / Доступные гайды / Guías disponibles
-
-- [🇬🇧 English version](guide-en.md) — for international readers
-- [🇷🇺 Русская версия](guide-ru.md) — для русскоязычных читателей
-- [🇪🇸 Versión en español](guide-es.md) — para hispanohablantes
-
 ## 📚 What's inside
 
-- [Full guide in Russian](guide-ru.md) — detailed instructions with comments
+- **Step-by-step guides** in three languages:
+  - [🇬🇧 English](guide-en.md)
+  - [🇷🇺 Russian](guide-ru.md) 
+  - [🇪🇸 Spanish](guide-es.md)
 - [Example config files](configs/) — ready-to-use .bash_profile, listener.ora
 - [Troubleshooting](troubleshooting/) — common errors and fixes (ORA-12541, etc.)
 
@@ -57,4 +58,4 @@ $ sudo dnf install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm -y
 # 4. Configure database — you will be asked to set passwords for SYS, SYSTEM and PDBADMIN
 $ sudo /etc/init.d/oracle-xe-21c configure
 ```
-For complete step-by-step instructions with all details, see the [full guide](guide-ru.md).
+
