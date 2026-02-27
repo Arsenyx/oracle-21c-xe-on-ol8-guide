@@ -216,6 +216,8 @@ $ sqldeveloper&
 
 ## 🔌 Configuring Connection in SQL Developer
 
+![Usage SQL Developer](images/Usage%20Oracle%20%20Tracking.png)
+
 Click green "+" (New Connection)
 Fill in the fields:
 
@@ -230,7 +232,7 @@ Fill in the fields:
 | **Port** | 1521 |
 | **Service Name** | XEPDB1 |
 
-![New Connection](images/new-connect.png)
+![New Connect](images/New%20Connection.png)
 
 Click **Test** — should show "Success"
 Click **Save**, then **Connect**
@@ -253,7 +255,7 @@ ID | NAME    | CREATED_AT
 3  | Antonio | 27-FEB-26
 ```
 
-![Test Results](images/testing-oracle-sql-developer.png)
+![Testing ORACLE SQL Developer](images/Oracle%20SQL%20Developer.png)
 
 ## 🐛 Common Errors and Solutions
 
